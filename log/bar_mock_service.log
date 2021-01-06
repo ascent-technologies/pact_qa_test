@@ -1,0 +1,43 @@
+I, [2021-01-05T20:43:31.946880 #62340]  INFO -- : Cleared interactions for example "BarClient can retrieve a thing"
+I, [2021-01-05T20:43:31.948668 #62340]  INFO -- : Registered expected interaction POST /graphql
+D, [2021-01-05T20:43:31.948735 #62340] DEBUG -- : {
+  "description": "a regulator request",
+  "request": {
+    "method": "post",
+    "path": "/graphql",
+    "headers": {
+      "Accept": "application/json"
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "metadata": null
+}
+I, [2021-01-05T20:43:31.984111 #62340]  INFO -- : Received request POST /graphql
+D, [2021-01-05T20:43:31.984231 #62340] DEBUG -- : {
+  "path": "/graphql",
+  "query": "",
+  "method": "post",
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded",
+    "User-Agent": "Faraday v0.17.3",
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Connection": "close",
+    "Host": "localhost:4000",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2021-01-05T20:43:31.984353 #62340]  INFO -- : Found matching response for POST /graphql
+D, [2021-01-05T20:43:31.984398 #62340] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
+I, [2021-01-05T20:43:31.986638 #62340]  INFO -- : Verifying - interactions matched for example "BarClient can retrieve a thing"
+I, [2021-01-05T20:43:31.990108 #62340]  INFO -- : Writing pact for Bar to /Users/gabrielholmes/Documents/pact-ascent-example/consumer/spec/pacts/foo-bar.json

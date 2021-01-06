@@ -1,0 +1,363 @@
+# Logfile created on 2021-01-03 20:46:09 -0600 by logger.rb/61378
+I, [2021-01-03T20:46:09.137162 #30803]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fa128a8af40> on port 4638...
+I, [2021-01-03T20:46:09.254585 #30803]  INFO -- : Started on port 4638
+I, [2021-01-03T20:46:09.313438 #30803]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:46:09.360080 #30803]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:46:09.366321 #30803] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T20:48:57.626232 #31325]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fd96a91c6e8> on port 4638...
+I, [2021-01-03T20:48:57.736753 #31325]  INFO -- : Started on port 4638
+I, [2021-01-03T20:48:57.771379 #31325]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:48:57.803853 #31325]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:48:57.810174 #31325] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T20:50:49.528593 #31674]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fa5429e0900> on port 4000...
+I, [2021-01-03T20:50:50.079822 #31674]  INFO -- : Started on port 4000
+I, [2021-01-03T20:50:50.114054 #31674]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:50:50.145975 #31674]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:50:50.152895 #31674] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T20:51:26.738024 #31811]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fac3a8ea7b8> on port 4000...
+I, [2021-01-03T20:51:26.866046 #31811]  INFO -- : Started on port 4000
+I, [2021-01-03T20:51:26.899619 #31811]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:51:26.931766 #31811]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:51:26.937122 #31811] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T20:52:01.415054 #31926]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fadde9738b0> on port 4000...
+I, [2021-01-03T20:52:01.546000 #31926]  INFO -- : Started on port 4000
+I, [2021-01-03T20:52:01.580785 #31926]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:52:01.612886 #31926]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:52:01.619411 #31926] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T20:59:20.456428 #33305]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe3f7a59c58> on port 4000...
+I, [2021-01-03T20:59:20.582618 #33305]  INFO -- : Started on port 4000
+I, [2021-01-03T20:59:20.616967 #33305]  INFO -- : Clearing all expectations
+I, [2021-01-03T20:59:20.648965 #33305]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T20:59:20.655212 #33305] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:00:17.975332 #33492]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f95bf20a420> on port 4000...
+I, [2021-01-03T21:00:18.100118 #33492]  INFO -- : Started on port 4000
+I, [2021-01-03T21:00:18.132421 #33492]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:00:18.164348 #33492]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:00:18.169563 #33492] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:02:08.903415 #33832]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f88691c4618> on port 4000...
+I, [2021-01-03T21:02:09.045825 #33832]  INFO -- : Started on port 4000
+I, [2021-01-03T21:02:09.078783 #33832]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:02:09.115190 #33832]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:02:09.122173 #33832] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:04:06.062818 #35318]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe6ce8faa68> on port 4000...
+I, [2021-01-03T21:04:06.209182 #35318]  INFO -- : Started on port 4000
+I, [2021-01-03T21:04:06.266710 #35318]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:04:06.339277 #35318]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:04:06.349867 #35318] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:06:13.682560 #36221]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fd26f838c88> on port 4000...
+I, [2021-01-03T21:06:13.810663 #36221]  INFO -- : Started on port 4000
+I, [2021-01-03T21:06:13.844166 #36221]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:06:13.878990 #36221]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:06:13.885239 #36221] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:06:39.658301 #36301]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007ff8f8947b60> on port 4000...
+I, [2021-01-03T21:06:39.785851 #36301]  INFO -- : Started on port 4000
+I, [2021-01-03T21:06:39.819661 #36301]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:06:39.851959 #36301]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:06:39.858560 #36301] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:07:23.533920 #36443]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fa2b3214690> on port 4000...
+I, [2021-01-03T21:07:23.662434 #36443]  INFO -- : Started on port 4000
+I, [2021-01-03T21:07:23.696527 #36443]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:07:23.728101 #36443]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:07:23.734565 #36443] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:08:16.350600 #36612]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fb718872680> on port 4000...
+I, [2021-01-03T21:08:16.477217 #36612]  INFO -- : Started on port 4000
+I, [2021-01-03T21:08:16.511463 #36612]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:08:16.544316 #36612]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:08:16.552236 #36612] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:09:11.412445 #36786]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fbe5280a3a0> on port 4000...
+I, [2021-01-03T21:09:11.555736 #36786]  INFO -- : Started on port 4000
+I, [2021-01-03T21:09:11.591628 #36786]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:09:11.622639 #36786]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:09:11.628110 #36786] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:09:17.274372 #36803]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:09:17.274535 #36803]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:09:17.274657 #36803] DEBUG -- : body :
+I, [2021-01-03T21:09:17.311166 #36803]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:09:17.311239 #36803] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:14:53.801643 #37914]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007facfc12cc48> on port 4000...
+I, [2021-01-03T21:14:53.942567 #37914]  INFO -- : Started on port 4000
+I, [2021-01-03T21:14:53.989291 #37914]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:14:54.040581 #37914]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:14:54.050465 #37914] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:14:59.627271 #37938]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:14:59.627380 #37938]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:14:59.627405 #37938] DEBUG -- : body :
+I, [2021-01-03T21:14:59.636476 #37938]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:14:59.636549 #37938] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:16:05.070473 #38153]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fb2e32bbb80> on port 4000...
+I, [2021-01-03T21:16:05.200087 #38153]  INFO -- : Started on port 4000
+I, [2021-01-03T21:16:05.235440 #38153]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:16:05.266282 #38153]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:16:05.271839 #38153] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:16:10.761024 #38170]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:16:10.761176 #38170]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:16:10.761202 #38170] DEBUG -- : body :
+I, [2021-01-03T21:16:10.766998 #38170]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:16:10.767056 #38170] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:18:16.942817 #38574]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fa22ea007d0> on port 4000...
+I, [2021-01-03T21:18:17.067567 #38574]  INFO -- : Started on port 4000
+I, [2021-01-03T21:18:17.101801 #38574]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:18:17.133372 #38574]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:18:17.140112 #38574] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:18:58.767874 #38703]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f99ba15a210> on port 4000...
+I, [2021-01-03T21:18:58.907123 #38703]  INFO -- : Started on port 4000
+I, [2021-01-03T21:18:58.940672 #38703]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:18:58.978351 #38703]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:18:58.985359 #38703] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:19:18.409376 #38777]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fd845204840> on port 4000...
+I, [2021-01-03T21:19:18.538321 #38777]  INFO -- : Started on port 4000
+I, [2021-01-03T21:19:18.573466 #38777]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:19:18.603481 #38777]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:19:18.610518 #38777] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:21:36.052203 #39209]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007ffbd689b118> on port 4000...
+I, [2021-01-03T21:21:36.181237 #39209]  INFO -- : Started on port 4000
+I, [2021-01-03T21:21:36.230163 #39209]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:21:36.264968 #39209]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:21:36.272166 #39209] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:22:11.783477 #39325]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fec531a82f8> on port 4000...
+I, [2021-01-03T21:22:11.910041 #39325]  INFO -- : Started on port 4000
+I, [2021-01-03T21:22:11.946518 #39325]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:22:11.977595 #39325]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:22:11.983760 #39325] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:22:17.510764 #39343]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:22:17.510910 #39343]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:22:17.510936 #39343] DEBUG -- : body :
+I, [2021-01-03T21:22:17.518672 #39343]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:22:17.518770 #39343] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:28:47.471869 #40566]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007ff2a5b70d50> on port 4000...
+I, [2021-01-03T21:28:47.613505 #40566]  INFO -- : Started on port 4000
+I, [2021-01-03T21:28:47.672086 #40566]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:28:47.710335 #40566]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:28:47.716778 #40566] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:28:53.236285 #40583]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:28:53.236571 #40583]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:28:53.236596 #40583] DEBUG -- : body :
+I, [2021-01-03T21:28:53.245418 #40583]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:28:53.245488 #40583] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:29:54.670329 #40802]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f9648240960> on port 4000...
+I, [2021-01-03T21:29:54.798429 #40802]  INFO -- : Started on port 4000
+I, [2021-01-03T21:29:54.848614 #40802]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:29:54.887132 #40802]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:29:54.894580 #40802] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:30:04.200170 #40837]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007ffa20136a38> on port 4000...
+I, [2021-01-03T21:30:04.325974 #40837]  INFO -- : Started on port 4000
+I, [2021-01-03T21:30:04.358132 #40837]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:30:04.389441 #40837]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:30:04.395607 #40837] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:30:09.928860 #40860]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T21:30:09.928980 #40860]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:30:09.929006 #40860] DEBUG -- : body :
+I, [2021-01-03T21:30:09.936927 #40860]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T21:30:09.937026 #40860] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T21:42:06.193893 #43114]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f9664abcac8> on port 4000...
+I, [2021-01-03T21:42:06.324034 #43114]  INFO -- : Started on port 4000
+I, [2021-01-03T21:42:06.380922 #43114]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:42:06.415221 #43114]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:42:06.423653 #43114] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:42:58.766966 #43281]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe33b0f02f0> on port 4000...
+I, [2021-01-03T21:42:58.896115 #43281]  INFO -- : Started on port 4000
+I, [2021-01-03T21:42:58.929478 #43281]  INFO -- : Clearing all expectations
+I, [2021-01-03T21:42:58.961873 #43281]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T21:42:58.968793 #43281] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T21:45:05.896786 #43684]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fef8996a278> on port 4000...
+I, [2021-01-03T21:45:06.024355 #43684]  INFO -- : Started on port 4000
+I, [2021-01-03T22:42:43.933393 #54446]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T22:42:43.933799 #54446]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:42:43.933830 #54446] DEBUG -- : body :
+I, [2021-01-03T22:42:43.942963 #54446]  INFO -- : Received response with status: 500, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:42:43.943065 #54446] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T22:43:42.205263 #54634]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T22:43:42.205407 #54634]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:43:42.205434 #54634] DEBUG -- : body :
+I, [2021-01-03T22:43:42.211021 #54634]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:43:42.211068 #54634] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T22:47:53.035743 #55418]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T22:47:53.035882 #55418]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:47:53.035907 #55418] DEBUG -- : body :
+I, [2021-01-03T22:47:53.041418 #55418]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:47:53.041511 #55418] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T22:51:28.421716 #56081]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe004307e10> on port 4000...
+I, [2021-01-03T22:51:28.549889 #56081]  INFO -- : Started on port 4000
+I, [2021-01-03T22:51:28.607529 #56081]  INFO -- : Clearing all expectations
+I, [2021-01-03T22:51:28.654188 #56081]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-03T22:51:28.662330 #56081] DEBUG -- : Supposed to be stopping
+I, [2021-01-03T22:56:27.096959 #57040]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T22:56:27.097560 #57040]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:56:27.097612 #57040] DEBUG -- : body :
+I, [2021-01-03T22:56:27.105352 #57040]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:56:27.105408 #57040] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T22:57:10.418100 #57169]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which includes headers "Content-Type" which equals "application/json"'
+I, [2021-01-03T22:57:10.418666 #57169]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:57:10.418698 #57169] DEBUG -- : body :
+I, [2021-01-03T22:57:10.425414 #57169]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T22:57:10.425491 #57169] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T23:03:01.795377 #58264]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T23:03:01.796021 #58264]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T23:03:01.796078 #58264] DEBUG -- : body :
+I, [2021-01-03T23:03:01.804292 #58264]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T23:03:01.804347 #58264] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFT","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-03T23:20:21.316833 #61443]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-03T23:20:21.317327 #61443]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-03T23:20:21.317368 #61443] DEBUG -- : body :
+I, [2021-01-03T23:20:21.327163 #61443]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-03T23:20:21.327228 #61443] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T00:42:21.386417 #76696]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T00:42:21.386953 #76696]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T00:42:21.387033 #76696] DEBUG -- : body :
+I, [2021-01-04T00:42:21.397951 #76696]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T00:42:21.398057 #76696] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T10:19:29.322728 #72189]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T10:19:29.323263 #72189]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T10:19:29.323320 #72189] DEBUG -- : body :
+I, [2021-01-04T10:19:29.331065 #72189]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T10:19:29.331137 #72189] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T12:13:25.239800 #93355]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T12:13:25.240282 #93355]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T12:13:25.240316 #93355] DEBUG -- : body :
+I, [2021-01-04T12:13:25.248001 #93355]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T12:13:25.248052 #93355] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T19:57:13.600086 #79232]  INFO -- : Running example 'Verifying a pact between Ascent and CDS graphQL A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T19:57:13.600693 #79232]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T19:57:13.600774 #79232] DEBUG -- : body :
+I, [2021-01-04T19:57:13.610117 #79232]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T19:57:13.610195 #79232] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T19:58:14.110307 #79427]  INFO -- : Running example 'Verifying a pact between Ascent and CDS graphQL A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T19:58:14.110414 #79427]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T19:58:14.110439 #79427] DEBUG -- : body :
+I, [2021-01-04T19:58:14.116436 #79427]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T19:58:14.116490 #79427] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T20:04:38.109321 #80642]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f8ce7b0b3e8> on port 4000...
+I, [2021-01-04T20:04:38.240698 #80642]  INFO -- : Started on port 4000
+I, [2021-01-04T20:04:38.275760 #80642]  INFO -- : Clearing all expectations
+I, [2021-01-04T20:04:38.319901 #80642]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T20:04:38.328426 #80642] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T20:55:30.091899 #89918]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fbdc3b4a9c8> on port 4000...
+I, [2021-01-04T20:55:30.219933 #89918]  INFO -- : Started on port 4000
+I, [2021-01-04T20:55:30.274932 #89918]  INFO -- : Clearing all expectations
+I, [2021-01-04T20:55:30.314536 #89918]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T20:55:30.320756 #89918] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T20:55:35.864981 #89935]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T20:55:35.865127 #89935]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T20:55:35.865152 #89935] DEBUG -- : body :
+I, [2021-01-04T20:55:35.873293 #89935]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T20:55:35.873360 #89935] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T21:52:50.540522 #681]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fab6736a960> on port 4000...
+I, [2021-01-04T21:52:50.668314 #681]  INFO -- : Started on port 4000
+I, [2021-01-04T21:52:50.722176 #681]  INFO -- : Clearing all expectations
+I, [2021-01-04T21:52:50.762257 #681]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T21:52:50.768785 #681] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T21:52:56.331399 #702]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T21:52:56.331514 #702]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:52:56.331539 #702] DEBUG -- : body :
+I, [2021-01-04T21:52:56.339887 #702]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:52:56.339953 #702] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T21:53:04.095682 #733]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fde0e2b82b8> on port 4000...
+I, [2021-01-04T21:53:04.222192 #733]  INFO -- : Started on port 4000
+I, [2021-01-04T21:53:04.256171 #733]  INFO -- : Clearing all expectations
+I, [2021-01-04T21:53:04.288569 #733]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T21:53:04.295832 #733] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T21:53:09.836291 #760]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T21:53:09.836478 #760]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:09.836521 #760] DEBUG -- : body :
+I, [2021-01-04T21:53:09.842346 #760]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:09.842396 #760] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T21:53:43.062611 #862]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T21:53:43.062757 #862]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:43.062782 #862] DEBUG -- : body :
+I, [2021-01-04T21:53:43.068272 #862]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:43.068310 #862] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T21:53:53.659605 #895]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T21:53:53.659718 #895]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:53.659877 #895] DEBUG -- : body :
+I, [2021-01-04T21:53:53.666268 #895]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T21:53:53.666321 #895] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T22:01:09.397310 #2337]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T22:01:09.397878 #2337]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T22:01:09.397944 #2337] DEBUG -- : body :
+I, [2021-01-04T22:01:09.407524 #2337]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T22:01:09.407629 #2337] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T22:01:16.933670 #2361]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007ffcc785f978> on port 4000...
+I, [2021-01-04T22:01:17.067173 #2361]  INFO -- : Started on port 4000
+I, [2021-01-04T22:01:17.117196 #2361]  INFO -- : Clearing all expectations
+I, [2021-01-04T22:01:17.166551 #2361]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T22:01:17.175848 #2361] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T22:01:22.856920 #2380]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T22:01:22.857169 #2380]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T22:01:22.857203 #2380] DEBUG -- : body :
+I, [2021-01-04T22:01:22.866216 #2380]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T22:01:22.866305 #2380] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T23:03:40.742181 #15115]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f8e2b374838> on port 4000...
+I, [2021-01-04T23:03:40.868274 #15115]  INFO -- : Started on port 4000
+I, [2021-01-04T23:03:40.922470 #15115]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:03:40.973956 #15115]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:03:40.982816 #15115] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:04:49.885716 #15342]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe0951ff838> on port 4000...
+I, [2021-01-04T23:04:50.022453 #15342]  INFO -- : Started on port 4000
+I, [2021-01-04T23:04:50.058017 #15342]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:04:50.092074 #15342]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:04:50.099857 #15342] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:09:23.582673 #16194]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fd35aa57b18> on port 4000...
+I, [2021-01-04T23:09:23.704848 #16194]  INFO -- : Started on port 4000
+I, [2021-01-04T23:09:23.738129 #16194]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:09:23.771531 #16194]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:09:23.779061 #16194] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:09:55.989792 #16293]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fb7cab539a0> on port 4000...
+I, [2021-01-04T23:09:56.114674 #16293]  INFO -- : Started on port 4000
+I, [2021-01-04T23:09:56.148291 #16293]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:09:56.181746 #16293]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:09:56.189351 #16293] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:10:29.045651 #16403]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fdec30be920> on port 4000...
+I, [2021-01-04T23:10:29.173997 #16403]  INFO -- : Started on port 4000
+I, [2021-01-04T23:10:29.208300 #16403]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:10:29.240491 #16403]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:10:29.247575 #16403] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:11:24.547568 #16578]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fc3a61cc7c8> on port 4000...
+I, [2021-01-04T23:11:24.671314 #16578]  INFO -- : Started on port 4000
+I, [2021-01-04T23:11:24.700985 #16578]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:11:24.735622 #16578]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:11:24.742835 #16578] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:20:21.916467 #18223]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fe5c3af37b8> on port 4000...
+I, [2021-01-04T23:20:22.040354 #18223]  INFO -- : Started on port 4000
+I, [2021-01-04T23:20:22.074507 #18223]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:20:22.108390 #18223]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:20:22.115792 #18223] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:30:57.777005 #20210]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f8f19ae8120> on port 4000...
+I, [2021-01-04T23:30:57.913314 #20210]  INFO -- : Started on port 4000
+I, [2021-01-04T23:30:57.943965 #20210]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:30:57.974294 #20210]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:30:57.979828 #20210] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:31:03.540588 #20230]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T23:31:03.540712 #20230]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:31:03.540737 #20230] DEBUG -- : body :
+I, [2021-01-04T23:31:03.549420 #20230]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:31:03.549512 #20230] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T23:34:03.246511 #20785]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fa9a296ac50> on port 4000...
+I, [2021-01-04T23:34:03.371715 #20785]  INFO -- : Started on port 4000
+I, [2021-01-04T23:34:03.405629 #20785]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:34:03.435233 #20785]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:34:03.440662 #20785] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:34:08.931517 #20800]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T23:34:08.931647 #20800]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:34:08.931673 #20800] DEBUG -- : body :
+I, [2021-01-04T23:34:08.937259 #20800]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:34:08.937303 #20800] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-04T23:41:54.429908 #22245]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007fd2fb23fcc8> on port 4000...
+I, [2021-01-04T23:41:54.556490 #22245]  INFO -- : Started on port 4000
+I, [2021-01-04T23:41:54.595681 #22245]  INFO -- : Clearing all expectations
+I, [2021-01-04T23:41:54.626290 #22245]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-04T23:41:54.632482 #22245] DEBUG -- : Supposed to be stopping
+I, [2021-01-04T23:42:00.133031 #22260]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-04T23:42:00.133144 #22260]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:42:00.133168 #22260] DEBUG -- : body :
+I, [2021-01-04T23:42:00.139140 #22260]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-04T23:42:00.139194 #22260] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
+I, [2021-01-05T20:43:31.748806 #62340]  INFO -- : Starting app Bar #<Pact::MockService::App:0x00007f89bb1002d8> on port 4000...
+I, [2021-01-05T20:43:31.896275 #62340]  INFO -- : Started on port 4000
+I, [2021-01-05T20:43:31.945196 #62340]  INFO -- : Clearing all expectations
+I, [2021-01-05T20:43:31.984777 #62340]  INFO -- : Verifying interactions for BarClient can retrieve a thing
+D, [2021-01-05T20:43:31.991765 #62340] DEBUG -- : Supposed to be stopping
+I, [2021-01-05T20:43:37.538853 #62361]  INFO -- : Running example 'Verifying a pact between Foo and Bar A regulator request with POST /graphql returns a response which has status code 200'
+I, [2021-01-05T20:43:37.539070 #62361]  INFO -- : Sending POST request to path: "/graphql" with headers: {"HTTP_ACCEPT"=>"application/json"}, see debug logs for body
+D, [2021-01-05T20:43:37.539097 #62361] DEBUG -- : body :
+I, [2021-01-05T20:43:37.546683 #62361]  INFO -- : Received response with status: 200, headers: {"Content-Type"=>"application/json"}, see debug logs for body
+D, [2021-01-05T20:43:37.546819 #62361] DEBUG -- : body: {"data":{"regulator":{"id":"146","name":"CFTC","regulatorType":"workflow","slug":"cftc"}}}
